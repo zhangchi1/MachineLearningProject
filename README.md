@@ -17,7 +17,7 @@ and analyze these results.
 * [Python 3.5](https://www.python.org/downloads/release/python-350/) 
 * [Numpy](http://www.numpy.org/)
 * [Pandas](https://pandas.pydata.org/)
-* [Tensorflow](https://www.tensorflow.org/), and [Keras] (https://keras.io/)
+* [Tensorflow](https://www.tensorflow.org/), and [Keras](https://keras.io/)
 * [OpenCV](https://opencv-python-tutroals.readthedocs.io/en/latest/index.html)
 * [Sklearn](https://scikit-learn.org/stable/)
 * [Matplotlib](https://matplotlib.org/)
