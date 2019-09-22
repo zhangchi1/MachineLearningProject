@@ -1,5 +1,4 @@
 # Machine Learning Project #
-**P.S. The goal of our project has been switched from detecting the area of the room to estimating each type of the room after we discussed with our client and tutors.**
 
 ## Machine Learning Project: Bouygues - SpaceXYZ ## 
 The goal of this project is to develop a machine learning model to **estimate each type of the room** given its floor plan. More precisely, the objectives are:
